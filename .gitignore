@@ -2,3 +2,4 @@ UnityProject/Library/
 UnityProject/*.apk
 *.sln
 *.csproj
+UnityProject/Temp/
